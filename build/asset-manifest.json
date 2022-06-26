@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.50b2e069.css",
-    "main.js": "/static/js/main.a00c5609.js",
+    "main.js": "/static/js/main.e8cfe7eb.js",
     "static/media/total.png": "/static/media/total.c609485cfe745c33e935.png",
     "static/media/logo.png": "/static/media/logo.4364156172305d945c04.png",
     "static/media/mr.smiley-logo.png": "/static/media/mr.smiley-logo.be23d4fd92c60ba59caf.png",
     "index.html": "/index.html",
     "main.50b2e069.css.map": "/static/css/main.50b2e069.css.map",
-    "main.a00c5609.js.map": "/static/js/main.a00c5609.js.map"
+    "main.e8cfe7eb.js.map": "/static/js/main.e8cfe7eb.js.map"
   },
   "entrypoints": [
     "static/css/main.50b2e069.css",
-    "static/js/main.a00c5609.js"
+    "static/js/main.e8cfe7eb.js"
   ]
 }
