@@ -8,6 +8,7 @@ var app = express();
 
 var usersRouter = require('./routes/users');
 var resRouter = require('./routes/response');
+var deviceRouter = require('./routes/device');
 
 
 app.use(cors());
@@ -26,6 +27,7 @@ app.get('/',(req,res)=>{
 
 app.use('/users',usersRouter);
 app.use('/response',resRouter);
+app.use('/device',deviceRouter);
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {

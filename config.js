@@ -11,7 +11,7 @@ const config = {
 
   
   // //database on server
-  host: 'cfs.cnqdrdf0e76p.ap-south-1.rds.amazonaws.com',
+  host: 'cfs-database.cnqdrdf0e76p.ap-south-1.rds.amazonaws.com',
   user: 'admin',
   database: 'tooltrackingdb',
   password: '1234567890',
